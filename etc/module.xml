@@ -6,5 +6,5 @@
  */
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
-    <module name="Dangs_Featuredproducts" setup_version="1.4.0" active="true"></module>
+    <module name="Dangs_Featuredproducts" setup_version="1.0.0" active="true"></module>
 </config>

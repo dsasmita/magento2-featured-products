@@ -1,2 +1,2 @@
 # magento2-featured-products
-change featured product
+Magento2 Featured Products Widget
